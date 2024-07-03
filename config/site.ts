@@ -6,6 +6,7 @@ export const siteConfig = {
   links: {
     twitter: 'https://twitter.com/bilesimo_',
     github: 'https://github.com/bilesimomenegali',
+    personalSite: 'https://jhondoe.me',
   },
 }
 
